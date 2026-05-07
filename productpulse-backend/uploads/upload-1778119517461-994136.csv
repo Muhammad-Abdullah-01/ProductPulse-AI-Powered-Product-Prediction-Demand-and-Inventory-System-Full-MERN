@@ -1,0 +1,25 @@
+product_id,product_name,category,region,sales,month,stock,price,cost
+P001,Wireless Earbuds Pro,Electronics,North,482,Mar-25,3,120,72
+P002,Winter Jacket XL,Fashion,South,213,Mar-25,22,85,51
+P003,Organic Olive Oil 1L,Groceries,East,889,Mar-25,8,15,9
+P004,Running Shoes M10,Sports,West,344,Mar-25,156,90,54
+P005,Vitamin C Serum,Beauty,North,671,Mar-25,6,35,21
+P006,Coffee Maker Deluxe,Appliances,East,128,Mar-25,31,150,90
+P007,Garden Hose 50ft,Home & Garden,West,240,Mar-25,94,45,27
+P008,Smart Watch Series 5,Electronics,North,320,Mar-25,18,200,120
+P001,Wireless Earbuds Pro,Electronics,North,410,Feb-25,20,120,72
+P002,Winter Jacket XL,Fashion,South,180,Feb-25,40,85,51
+P003,Organic Olive Oil 1L,Groceries,East,760,Feb-25,30,15,9
+P004,Running Shoes M10,Sports,West,290,Feb-25,180,90,54
+P005,Vitamin C Serum,Beauty,North,590,Feb-25,25,35,21
+P006,Coffee Maker Deluxe,Appliances,East,95,Feb-25,50,150,90
+P007,Garden Hose 50ft,Home & Garden,West,180,Feb-25,110,45,27
+P008,Smart Watch Series 5,Electronics,North,270,Feb-25,35,200,120
+P001,Wireless Earbuds Pro,Electronics,South,390,Jan-25,15,120,72
+P002,Winter Jacket XL,Fashion,North,310,Jan-25,55,85,51
+P003,Organic Olive Oil 1L,Groceries,West,820,Jan-25,12,15,9
+P004,Running Shoes M10,Sports,East,410,Jan-25,200,90,54
+P005,Vitamin C Serum,Beauty,South,540,Jan-25,18,35,21
+P006,Coffee Maker Deluxe,Appliances,North,110,Jan-25,45,150,90
+P007,Garden Hose 50ft,Home & Garden,East,160,Jan-25,95,45,27
+P008,Smart Watch Series 5,Electronics,South,240,Jan-25,28,200,120
